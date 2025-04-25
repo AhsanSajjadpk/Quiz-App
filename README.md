@@ -26,3 +26,12 @@ A simple and interactive quiz application built with **React.js**. Users can ans
 > useState
 > useEffect
 > useContext
+
+## 🛠️ Resources Used
+
+
+- [Material UI](https://mui.com/)
+
+- [Customize Api Site](https://the-trivia-api.com/)
+
+- [Api used in the Project!](https://the-trivia-api.com/api/questions?categories=general_knowledge&limit=20&region=PK&difficulty=medium)
