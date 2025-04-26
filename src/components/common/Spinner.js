@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
+import CircularProgress from "@mui/material/CircularProgress";
 
 const Spinner = () => {
-  return (
-    <div>Spinner</div>
-  )
-}
+  return <CircularProgress disableShrink />;
+};
 
-export default Spinner
+export default Spinner;
